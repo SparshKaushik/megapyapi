@@ -19,4 +19,4 @@ It takes data (email and password) with post method with json and tries to log i
 
 #Contact Me
 
-<img style="vertical-align:middle" src="https://user-images.githubusercontent.com/94038536/147401567-8f993bf0-c230-48f3-9dc2-36b45ee276c0.png" width="32" height="32" /><span>contact@sparshkaushik.com</span>
+<img src="https://user-images.githubusercontent.com/94038536/147401567-8f993bf0-c230-48f3-9dc2-36b45ee276c0.png" width="16" height="16" />contact@sparshkaushik.com
