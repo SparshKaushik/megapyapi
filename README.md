@@ -17,7 +17,15 @@ It takes data (email and password) with post method with json and tries to log i
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SparshKaushik/megapyapi)
 
 
-# Contact Me
-
-[![email](https://user-images.githubusercontent.com/94038536/147402644-70aa80c3-a571-4d7a-bd41-2dc28fedd958.png)](mailto:contact@sparshkaushik.com)
-[![telegram](https://user-images.githubusercontent.com/94038536/147402646-79fd71cd-d162-4878-80bf-304a2f5ca739.png)](https://t.me/SparshKaushik)
+## Contact Me
+<div align="center">
+<a href="https://github.com/SparshKaushik" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/SparshKaushik" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/phomtographer" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
