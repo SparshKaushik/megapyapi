@@ -2,7 +2,7 @@
 
 # About
 
-This api is made with Python Flask and used [![this]](https://pypi.org/project/mega.py/) pypi project.
+This api is made with Python Flask and used [this](https://pypi.org/project/mega.py/) pypi project.
 
 # Deploy To Heroku
 
