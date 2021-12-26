@@ -4,8 +4,10 @@ from mega import Mega
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
+    if request.method == 'GET':
+        return redirect("https://github.com/SparshKaushik/megapyapi")
     from mega import Mega
     megaa = Mega()
     data = request.json
