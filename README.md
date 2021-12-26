@@ -18,7 +18,6 @@ It takes data (email and password) with post method with json and tries to log i
 
 
 ## Contact Me
-<div align="center">
 <a href="https://github.com/SparshKaushik" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -28,4 +27,3 @@ It takes data (email and password) with post method with json and tries to log i
 <a href="https://instagram.com/phomtographer" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
