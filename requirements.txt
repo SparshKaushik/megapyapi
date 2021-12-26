@@ -1,5 +1,17 @@
+certifi
+click
+colorama
 Flask
 gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
 mega.py
+pathlib
+pycryptodome
 requests
+six
+tenacity
 urllib3
+Werkzeug
